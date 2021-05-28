@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="user" label="User" language="en" table="var__m_topic_variable_27ac713edb587010223ec8da0b961949">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <help/>
+            <hint/>
+            <label>User</label>
+            <language>en</language>
+            <name>var__m_topic_variable_27ac713edb587010223ec8da0b961949</name>
+            <plural>User</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>lb_mui</sys_created_by>
+            <sys_created_on>2021-05-27 07:55:39</sys_created_on>
+            <sys_id>a7ac713edb587010223ec8da0b961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User</sys_name>
+            <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_615308_needit_vi">097b3576db587010223ec8da0b9619c6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Virtual Agent Conversations">097b3576db587010223ec8da0b9619c6</sys_scope>
+            <sys_update_name>sys_documentation_var__m_topic_variable_27ac713edb587010223ec8da0b961949_user_en</sys_update_name>
+            <sys_updated_by>lb_mui</sys_updated_by>
+            <sys_updated_on>2021-05-27 07:55:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
